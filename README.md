@@ -1,5 +1,6 @@
 # Big-Data-Architecture
 #碩士班一年級期末小組報告
+#import
 import numpy as np
 import tensorflow as tf
 import pandas as pd
